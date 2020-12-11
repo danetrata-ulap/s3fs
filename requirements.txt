@@ -1,2 +1,2 @@
-aiobotocore>=1.0.1
+-e git+https://github.com/danetrata-ulap/s3fs.git@c8ce8a515f7d4e61650bc23742bcdbc25f78cdd1#egg=s3fs
 fsspec>=0.8.0
