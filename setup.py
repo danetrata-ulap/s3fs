@@ -22,5 +22,4 @@ setup(name='s3fs',
       keywords='s3, boto',
       packages=['s3fs'],
       python_requires='>= 3.7',
-      install_requires=[open('requirements.txt').read().strip().split('\n')],
       zip_safe=False)
