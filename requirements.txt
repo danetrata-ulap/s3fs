@@ -1,2 +1,2 @@
--e git+https://github.com/dazza-codes/aiobotocore.git#egg=aiobotocore
+git+https://github.com/dazza-codes/aiobotocore.git#egg=aiobotocore
 fsspec>=0.8.0
